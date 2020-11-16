@@ -7,12 +7,12 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: edbsysten
-description: 
+# description: 
 github_username: edbsystem
 
 # Email and twitter are optional:
-email: thomas@edbsystem.dk
-twitter_username:
+# email: thomas@edbsystem.dk
+# twitter_username:
 
 # Set this to true to get LaTeX math equation support
 use_math:
