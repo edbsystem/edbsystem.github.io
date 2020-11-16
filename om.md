@@ -1,3 +1,3 @@
-# Om edbsystem.dk
+# Om
 
 
